@@ -9,6 +9,7 @@ class HomeController extends Controller
     //
     public function FunnName($value='')
     {
-    	# code...
+    	
+    	ngo trung thang
     }
 }
