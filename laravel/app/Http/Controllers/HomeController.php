@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 class HomeController extends Controller
 {
     //
-    public function FunctionName($value='')
+    public function FunnName($value='')
     {
     	# code...
     }
